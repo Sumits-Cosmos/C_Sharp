@@ -1,0 +1,14 @@
+/home/sumit-raj/suryaTraining/c#/startingWithC#/bin/Debug/net10.0/startingWithC#
+/home/sumit-raj/suryaTraining/c#/startingWithC#/bin/Debug/net10.0/startingWithC#.deps.json
+/home/sumit-raj/suryaTraining/c#/startingWithC#/bin/Debug/net10.0/startingWithC#.runtimeconfig.json
+/home/sumit-raj/suryaTraining/c#/startingWithC#/bin/Debug/net10.0/startingWithC#.dll
+/home/sumit-raj/suryaTraining/c#/startingWithC#/bin/Debug/net10.0/startingWithC#.pdb
+/home/sumit-raj/suryaTraining/c#/startingWithC#/obj/Debug/net10.0/startingWithC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/sumit-raj/suryaTraining/c#/startingWithC#/obj/Debug/net10.0/startingWithC#.AssemblyInfoInputs.cache
+/home/sumit-raj/suryaTraining/c#/startingWithC#/obj/Debug/net10.0/startingWithC#.AssemblyInfo.cs
+/home/sumit-raj/suryaTraining/c#/startingWithC#/obj/Debug/net10.0/startingWithC#.csproj.CoreCompileInputs.cache
+/home/sumit-raj/suryaTraining/c#/startingWithC#/obj/Debug/net10.0/startingWithC#.dll
+/home/sumit-raj/suryaTraining/c#/startingWithC#/obj/Debug/net10.0/refint/startingWithC#.dll
+/home/sumit-raj/suryaTraining/c#/startingWithC#/obj/Debug/net10.0/startingWithC#.pdb
+/home/sumit-raj/suryaTraining/c#/startingWithC#/obj/Debug/net10.0/startingWithC#.genruntimeconfig.cache
+/home/sumit-raj/suryaTraining/c#/startingWithC#/obj/Debug/net10.0/ref/startingWithC#.dll
