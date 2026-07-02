@@ -126,3 +126,74 @@ Console.WriteLine("Hello, Let's start coding in C#");
 // Console.WriteLine(stack.Pop()); // top
 
 
+// handling the exception in C# using try-catch block
+
+// try
+// {
+    // Console.WriteLine("Enter a number: ");
+    // int num1 = Convert.ToInt32(Console.ReadLine());
+// 
+    // Console.WriteLine("Enter another number: ");
+    // int num2 = Convert.ToInt32(Console.ReadLine());
+// 
+    // int result = num1 / num2;
+    // Console.WriteLine($"Result: {result}");
+// }
+// catch (DivideByZeroException ex)
+// {
+    // Console.WriteLine("Error: Cannot divide by zero.");
+// }
+// catch (FormatException ex)
+// {
+    // Console.WriteLine("Error: Please enter a valid number.");
+// }
+// catch (Exception ex)
+// {
+    // Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+// }
+// finally
+// {
+    // Console.WriteLine("Execution completed.");
+// }
+
+// we can also use when we want to handle multiple exceptions in a single catch block using the 'when' keyword.
+
+// {
+//     Console.WriteLine("Enter a number: ");
+//     int num1 = Convert.ToInt32(Console.ReadLine());
+
+//     Console.WriteLine("Enter another number: ");
+//     int num2 = Convert.ToInt32(Console.ReadLine());
+
+//     int result = num1 / num2;
+//     Console.WriteLine($"Result: {result}");
+// }
+// catch (Exception ex) when (ex is DivideByZeroException || ex is FormatException)
+// {
+//     if (ex is DivideByZeroException)
+//     {
+//    Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+// }
+// finally
+// {
+//     Console.WriteLine("Execution completed.");
+// }     Console.WriteLine("Error: Cannot divide by zero.");
+//     }
+//     else if (ex is FormatException)
+//     {
+//         Console.WriteLine("Error: Please enter a valid number.");
+//     }
+// }Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+// }
+// finally
+// {
+//     Console.WriteLine("Execution completed.");
+// }
+// catch (Exception ex)
+// {
+//     Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+// }
+// finally
+// {
+//     Console.WriteLine("Execution completed.");
+// }

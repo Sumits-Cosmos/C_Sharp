@@ -1,0 +1,15 @@
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/bin/Debug/net10.0/DeepdiveC#
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/bin/Debug/net10.0/DeepdiveC#.deps.json
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/bin/Debug/net10.0/DeepdiveC#.runtimeconfig.json
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/bin/Debug/net10.0/DeepdiveC#.dll
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/bin/Debug/net10.0/DeepdiveC#.pdb
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/obj/Debug/net10.0/DeepdiveC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/obj/Debug/net10.0/DeepdiveC#.AssemblyInfoInputs.cache
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/obj/Debug/net10.0/DeepdiveC#.AssemblyInfo.cs
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/obj/Debug/net10.0/DeepdiveC#.csproj.CoreCompileInputs.cache
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/obj/Debug/net10.0/DeepdiveC#.sourcelink.json
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/obj/Debug/net10.0/DeepdiveC#.dll
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/obj/Debug/net10.0/refint/DeepdiveC#.dll
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/obj/Debug/net10.0/DeepdiveC#.pdb
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/obj/Debug/net10.0/DeepdiveC#.genruntimeconfig.cache
+/home/sumit-raj/suryaTraining/c#/DeepdiveC#/obj/Debug/net10.0/ref/DeepdiveC#.dll

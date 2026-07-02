@@ -1,0 +1,15 @@
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/bin/Debug/net10.0/OppsAdv
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/bin/Debug/net10.0/OppsAdv.deps.json
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/bin/Debug/net10.0/OppsAdv.runtimeconfig.json
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/bin/Debug/net10.0/OppsAdv.dll
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/bin/Debug/net10.0/OppsAdv.pdb
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/obj/Debug/net10.0/OppsAdv.GeneratedMSBuildEditorConfig.editorconfig
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/obj/Debug/net10.0/OppsAdv.AssemblyInfoInputs.cache
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/obj/Debug/net10.0/OppsAdv.AssemblyInfo.cs
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/obj/Debug/net10.0/OppsAdv.csproj.CoreCompileInputs.cache
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/obj/Debug/net10.0/OppsAdv.sourcelink.json
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/obj/Debug/net10.0/OppsAdv.dll
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/obj/Debug/net10.0/refint/OppsAdv.dll
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/obj/Debug/net10.0/OppsAdv.pdb
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/obj/Debug/net10.0/OppsAdv.genruntimeconfig.cache
+/home/sumit-raj/suryaTraining/c#/DeepDiveC#/OppsAdv/obj/Debug/net10.0/ref/OppsAdv.dll
